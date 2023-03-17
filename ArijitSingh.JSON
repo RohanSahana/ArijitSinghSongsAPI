@@ -1,0 +1,1602 @@
+[
+    {
+        "Film": "Fuddu",
+        "Song": "Tum Tum Tum Ho",
+        "Singer": "Arijit Singh, Sunidhi Chauhan",
+        "Composer": "Rana Mazumder",
+        "Writer": "Panchhi",
+        "Year Published": 2016
+    },
+    {
+        "Film": "Fuddu",
+        "Song": "Tum Tum Tum Ho",
+        "Singer": "Arijit Singh, Yasser Desai, Sumedha Karmahe",
+        "Composer": "Sumeet Bellary",
+        "Writer": "Satya Khare, Panchhi",
+        "Year Published": 2016
+    },
+    {
+        "Film": "Shivaay",
+        "Song": "Darkhaast",
+        "Singer": "Arijit Singh, Sunidhi Chauhan, Mithoon",
+        "Composer": "Mithoon",
+        "Writer": "Sayeed Quadri",
+        "Year Published": 2016
+    },
+    {
+        "Film": "Ae Dil Hai Mushkil",
+        "Song": "Ae Dil Hai Mushkil",
+        "Singer": "Arijit Singh",
+        "Composer": "Pritam Chakraborty",
+        "Writer": "Amitabh Bhattacharya",
+        "Year Published": 2016
+    },
+    {
+        "Film": "Ae Dil Hai Mushkil",
+        "Song": "Channa Mereya",
+        "Singer": "Arijit Singh",
+        "Composer": "Pritam Chakraborty",
+        "Writer": "Amitabh Bhattacharya",
+        "Year Published": 2016
+    },
+    {
+        "Film": "Ae Dil Hai Mushkil",
+        "Song": "The Breakup Song",
+        "Singer": "Arijit Singh, Badshah, Jonita Gandhi, Nakash Aziz",
+        "Composer": "Pritam Chakraborty",
+        "Writer": "Amitabh Bhattacharya",
+        "Year Published": 2016
+    },
+    {
+        "Film": "Ae Dil Hai Mushkil",
+        "Song": "Alizeh",
+        "Singer": "Arijit Singh, Ash King, Shashwat Singh",
+        "Composer": "Pritam Chakraborty",
+        "Writer": "Amitabh Bhattacharya",
+        "Year Published": 2016
+    },
+    {
+        "Film": "Ae Dil Hai Mushkil",
+        "Song": "Bulleya",
+        "Singer": "Arijit Singh, Shilpa Rao",
+        "Composer": "Pritam Chakraborty",
+        "Writer": "Amitabh Bhattacharya",
+        "Year Published": 2016
+    },
+    {
+        "Film": "Salaam Mumbai",
+        "Song": "Reza Reza",
+        "Singer": "Arijit Singh, Shiba Bhardwaj, Hamidreza Monfared",
+        "Composer": "Dilshad Shabbir Sheikh",
+        "Writer": "Ritu Shri",
+        "Year Published": 2016
+    },
+    {
+        "Film": "Tum Bin 2",
+        "Song": "Ishq Mubarak",
+        "Singer": "Arijit Singh",
+        "Composer": "Ankit Tiwari",
+        "Writer": "Manoj Muntashir",
+        "Year Published": 2016
+    },
+    {
+        "Film": "Tum Bin 2",
+        "Song": "Dekh Lena",
+        "Singer": "Arijit Singh, Tulsi Kumar",
+        "Composer": "Ankit Tiwari",
+        "Writer": "Manoj Muntashir",
+        "Year Published": 2016
+    },
+    {
+        "Film": "Dear Zindagi",
+        "Song": "Tu Hi Hai",
+        "Singer": "Arijit Singh",
+        "Composer": "Amit Trivedi",
+        "Writer": "Kausar Munir",
+        "Year Published": 2016
+    },
+    {
+        "Film": "Dear Zindagi",
+        "Song": "Taarefon Se",
+        "Singer": "Arijit Singh",
+        "Composer": "Amit Trivedi",
+        "Writer": "Kausar Munir",
+        "Year Published": 2016
+    },
+    {
+        "Film": "Dear Zindagi",
+        "Song": "Ae Zindagi Gale Laga Le",
+        "Singer": "Arijit Singh",
+        "Composer": "Amit Trivedi",
+        "Writer": "Gulzar",
+        "Year Published": 2016
+    },
+    {
+        "Film": "Dongri Ka Raja",
+        "Song": "Piya Tu Piya",
+        "Singer": "Arijit Singh, Chinmayi Sripada",
+        "Composer": "Asad Khan",
+        "Writer": "Raqueeb Alam",
+        "Year Published": 2016
+    },
+    {
+        "Film": "Saansein",
+        "Song": "Mera Ishq",
+        "Singer": "Arijit Singh, Ash King, Swati Sharma",
+        "Composer": "Vivek Kar",
+        "Writer": "Kumaar",
+        "Year Published": 2016
+    },
+    {
+        "Film": "Kahaani 2",
+        "Song": "Mehram",
+        "Singer": "Arijit Singh",
+        "Composer": "Clinton Cerejo",
+        "Writer": "Amitabh Bhattacharya",
+        "Year Published": 2016
+    },
+    {
+        "Film": "Befikre",
+        "Song": "Nashe Si Chadh Gayi",
+        "Singer": "Arijit Singh, Caralisa Monteiro",
+        "Composer": "Vishal–Shekhar",
+        "Writer": "Jaideep Sahni",
+        "Year Published": 2016
+    },
+    {
+        "Film": "Wajah Tum Ho",
+        "Song": "Dil Ke Paas",
+        "Singer": "Arijit Singh, Tulsi Kumar, Neuman Pintoo",
+        "Composer": "Kalyanji–Anandji",
+        "Writer": "Rajendra Prasad",
+        "Year Published": 2016
+    },
+    {
+        "Film": "Dangal",
+        "Song": "Naina",
+        "Singer": "Arijit Singh",
+        "Composer": "Pritam Chakraborty",
+        "Writer": "Amitabh Bhattacharya",
+        "Year Published": 2016
+    },
+    {
+        "Film": "OK Jaanu",
+        "Song": "Enna Sona",
+        "Singer": "Arijit Singh",
+        "Composer": "A. R. Rahman",
+        "Writer": "Gulzar",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Raees",
+        "Song": "Zaalima",
+        "Singer": "Arijit Singh, Harshdeep Kaur",
+        "Composer": "JAM8",
+        "Writer": "Amitabh Bhattacharya",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Rangoon",
+        "Song": "Yeh Ishq Hai",
+        "Singer": "Arijit Singh",
+        "Composer": "Vishal Bhardwaj",
+        "Writer": "Gulzar",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Rangoon",
+        "Song": "Alvida",
+        "Singer": "Arijit Singh",
+        "Composer": "Vishal Bhardwaj",
+        "Writer": "Gulzar",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Badrinath Ki Dulhania",
+        "Song": "Roke Na Ruke Naina",
+        "Singer": "Arijit Singh",
+        "Composer": "Amaal Mallik",
+        "Writer": "Kumaar",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Poorna",
+        "Song": "Kuch Parbat Hilaayein",
+        "Singer": "Arijit Singh",
+        "Composer": "Salim–Sulaiman",
+        "Writer": "Amitabh Bhattacharya",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Poorna",
+        "Song": "Baabul Mora",
+        "Singer": "Arijit Singh",
+        "Composer": "Salim–Sulaiman",
+        "Writer": "Amitabh Bhattacharya",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Begum Jaan",
+        "Song": "Woh Subah",
+        "Singer": "Arijit Singh, Shreya Ghoshal",
+        "Composer": "Khayyam",
+        "Writer": "Sahir Ludhiyanvi",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Begum Jaan",
+        "Song": "Murshida",
+        "Singer": "Arijit Singh",
+        "Composer": "Anu Malik",
+        "Writer": "Rahat Indori",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Meri Pyaari Bindu",
+        "Song": "Haareya",
+        "Singer": "Arijit Singh",
+        "Composer": "Sachin–Jigar",
+        "Writer": "Priya Saraiya",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Meri Pyaari Bindu",
+        "Song": "Titli Trippin",
+        "Singer": "Arijit Singh, Neeti Mohan",
+        "Composer": "Sachin–Jigar",
+        "Writer": "Vayu",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Half Girlfriend",
+        "Song": "Phir Bhi Tumko Chaahunga",
+        "Singer": "Arijit Singh, Shashaa Tirupati",
+        "Composer": "Mithoon",
+        "Writer": "Manoj Muntashir",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Half Girlfriend",
+        "Song": "Pal Bhar",
+        "Singer": "Arijit Singh",
+        "Composer": "Mithoon",
+        "Writer": "Manoj Muntashir",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Raabta",
+        "Song": "Ik Vaari Aa",
+        "Singer": "Arijit Singh",
+        "Composer": "Pritam Chakraborty",
+        "Writer": "Amitabh Bhattacharya",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Raabta",
+        "Song": "Raabta",
+        "Singer": "Arijit Singh, Nikhita Gandhi",
+        "Composer": "Pritam Chakraborty",
+        "Writer": "Amitabh Bhattacharya, Irshad Kamil",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Raabta",
+        "Song": "Lambiyaan Si Judaiyaan",
+        "Singer": "Arijit Singh, Shadab Faridi, Altamash Faridi",
+        "Composer": "JAM8",
+        "Writer": "Amitabh Bhattacharya",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Raabta",
+        "Song": "Main Tera Boyfriend",
+        "Singer": "Arijit Singh, Neha Kakkar, Meet Bros, Sourav Roy, Sohrabuddin",
+        "Composer": "Meet Bros",
+        "Writer": "Kumaar",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Behen Hogi Teri",
+        "Song": "Tera Hoke Rahoon",
+        "Singer": "Arijit Singh",
+        "Composer": "JAM8",
+        "Writer": "Bipin Das",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Sweetiee Weds NRI",
+        "Song": "Musafir",
+        "Singer": "Arijit Singh",
+        "Composer": "Palash Muchhal",
+        "Writer": "Palak Muchhal",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Dobaara",
+        "Song": "Ab Raat",
+        "Singer": "Arijit Singh, Puneet Sharma",
+        "Composer": "Samira Koppikar",
+        "Writer": "Samira Koppikar",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Shab",
+        "Song": "O Saathi",
+        "Singer": "Arijit Singh",
+        "Composer": "Mithoon",
+        "Writer": "Mithoon",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Jagga Jasoos",
+        "Song": "Ullu Ka Pattha",
+        "Singer": "Arijit Singh, Nikhita Gandhi",
+        "Composer": "Pritam Chakraborty",
+        "Writer": "Amitabh Bhattacharya",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Jagga Jasoos",
+        "Song": "Galti Se Mistake",
+        "Singer": "Arijit Singh, Amit Mishra",
+        "Composer": "Pritam Chakraborty",
+        "Writer": "Amitabh Bhattacharya",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Jagga Jasoos",
+        "Song": "Jhumritalaiyya",
+        "Singer": "Arijit Singh, Mohan Kanan",
+        "Composer": "Pritam Chakraborty",
+        "Writer": "Neelesh Misra",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Jagga Jasoos",
+        "Song": "Phir Wahi",
+        "Singer": "Arijit Singh",
+        "Composer": "Pritam Chakraborty",
+        "Writer": "Amitabh Bhattacharya",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Jab Harry Met Sejal",
+        "Song": "Beech Beech Mein",
+        "Singer": "Arijit Singh, Shalmali Kholgade, Shefali Alvares",
+        "Composer": "Pritam Chakraborty",
+        "Writer": "Irshad Kamil",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Jab Harry Met Sejal",
+        "Song": "Safar",
+        "Singer": "Arijit Singh",
+        "Composer": "Pritam Chakraborty",
+        "Writer": "Irshad Kamil",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Jab Harry Met Sejal",
+        "Song": "Hawayein",
+        "Singer": "Arijit Singh",
+        "Composer": "Pritam Chakraborty",
+        "Writer": "Irshad Kamil",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Bareilly Ki Barfi",
+        "Song": "Bairaagi",
+        "Singer": "Arijit Singh, Samira Koppikar",
+        "Composer": "Samira Koppikar",
+        "Writer": "Puneet Sharma",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Qaidi Band",
+        "Song": "Hulchul",
+        "Singer": "Arijit Singh, Yashita Sharma",
+        "Composer": "Amit Trivedi",
+        "Writer": "Kausar Munir",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Qaidi Band",
+        "Song": "Poshampa",
+        "Singer": "Arijit Singh, Yashita Sharma",
+        "Composer": "Amit Trivedi",
+        "Writer": "Kausar Munir",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Qaidi Band",
+        "Song": "Junooni",
+        "Singer": "Arijit Singh, Yashita Sharma",
+        "Composer": "Amit Trivedi",
+        "Writer": "Kausar Munir",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Qaidi Band",
+        "Song": "Udanchoo",
+        "Singer": "Arijit Singh, Yashita Sharma",
+        "Composer": "Amit Trivedi",
+        "Writer": "Kausar Munir",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Qaidi Band",
+        "Song": "I am India",
+        "Singer": "Arijit Singh, Yashita Sharma",
+        "Composer": "Amit Trivedi",
+        "Writer": "Habib Faisal",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Qaidi Band",
+        "Song": "Jag Mag",
+        "Singer": "Arijit Singh, Yashita Sharma, Peter Muxka Manuel",
+        "Composer": "Amit Trivedi",
+        "Writer": "Habib Faisal",
+        "Year Published": 2017
+    },
+    {
+        "Film": "A Gentleman",
+        "Song": "Laagi Na Choote",
+        "Singer": "Arijit Singh, Shreya Ghoshal",
+        "Composer": "Sachin–Jigar",
+        "Writer": "Priya Saraiya",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Lucknow Central",
+        "Song": "Rangdaari",
+        "Singer": "Arijit Singh",
+        "Composer": "Arjunna Harjaie",
+        "Writer": "Kumaar",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Simran",
+        "Song": "Meet",
+        "Singer": "Arijit Singh",
+        "Composer": "Sachin–Jigar",
+        "Writer": "Priya Saraiya",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Haseena Parkar",
+        "Song": "Tere Bina",
+        "Singer": "Arijit Singh, Priya Saraiya",
+        "Composer": "Sachin–Jigar",
+        "Writer": "Priya Saraiya",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Aksar 2",
+        "Song": "Jaana Ve",
+        "Singer": "Arijit Singh",
+        "Composer": "Mithoon",
+        "Writer": "Sayeed Quadri",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Aksar 2",
+        "Song": "Aaj Zid",
+        "Singer": "Arijit Singh",
+        "Composer": "Mithoon",
+        "Writer": "Sayeed Quadri",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Ranchi Diaries",
+        "Song": "Thoda Aur",
+        "Singer": "Arijit Singh, Palak Muchhal",
+        "Composer": "Jeet Gannguli",
+        "Writer": "Manoj Muntashir",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Rukh",
+        "Song": "Hai Baaki",
+        "Singer": "Arijit Singh",
+        "Composer": "Amit Trivedi",
+        "Writer": "Sidhant Mago",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Tu Hai Mera Sunday",
+        "Song": "Thodi Si Jagah",
+        "Singer": "Arijit Singh",
+        "Composer": "Amartya Rahut",
+        "Writer": "Milind Dhaimade",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Tu Hai Mera Sunday",
+        "Song": "Dhoond Lo",
+        "Singer": "Arijit Singh",
+        "Composer": "Amartya Rahut",
+        "Writer": "Milind Dhaimade",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Shaadi Mein Zaroor Aana",
+        "Song": "Main Hoon Saath Tere",
+        "Singer": "Arijit Singh",
+        "Composer": "JAM8",
+        "Writer": "Shakeel Azmi, Kunaal Verma",
+        "Year Published": 2017
+    },
+    {
+        "Film": "Monsoon Shootout",
+        "Song": "Pal",
+        "Singer": "Arijit Singh",
+        "Composer": "Rochak Kohli",
+        "Writer": "Sumant Vadhera",
+        "Year Published": 2017
+    },
+    {
+        "Film": 1921,
+        "Song": "Tere Bina",
+        "Singer": "Arijit Singh, Aakanksha Sharma",
+        "Composer": "Asad Khan",
+        "Writer": "Raqueeb Alam",
+        "Year Published": 2018
+    },
+    {
+        "Film": "Jaane Kyun De Yaaron",
+        "Song": "Meri Tanhaiyon Mein",
+        "Singer": "Arijit Singh",
+        "Composer": "Satya, Manik, Afsar AMAR",
+        "Writer": "Prashant Ingole",
+        "Year Published": 2018
+    },
+    {
+        "Film": "Phir Se...",
+        "Song": "Maine Socha Ke Chura Loon",
+        "Singer": "Arijit Singh, Shreya Ghoshal",
+        "Composer": "Jeet Gannguli",
+        "Writer": "Rashmi Virag",
+        "Year Published": 2018
+    },
+    {
+        "Film": "Padmaavat",
+        "Song": "Binte Dil",
+        "Singer": "Arijit Singh",
+        "Composer": "Sanjay Leela Bhansali",
+        "Writer": "A. M. Turaz",
+        "Year Published": 2018
+    },
+    {
+        "Film": "Padman",
+        "Song": "Aaj Se Teri",
+        "Singer": "Arijit Singh",
+        "Composer": "Amit Trivedi",
+        "Writer": "Kausar Munir",
+        "Year Published": 2018
+    },
+    {
+        "Film": "Sonu Ke Titu Ki Sweety",
+        "Song": "Subah Subah",
+        "Singer": "Arijit Singh, Prakriti Kakar",
+        "Composer": "Amaal Mallik",
+        "Writer": "Kumaar",
+        "Year Published": 2018
+    },
+    {
+        "Film": "Sonu Ke Titu Ki Sweety",
+        "Song": "Tera Yaar Hoon Main",
+        "Singer": "Arijit Singh",
+        "Composer": "Rochak Kohli",
+        "Writer": "Kumaar",
+        "Year Published": 2018
+    },
+    {
+        "Film": "3 Storeys",
+        "Song": "Bas Tu Hai",
+        "Singer": "Arijit Singh, Jonita Gandhi",
+        "Composer": "Clinton Cerejo",
+        "Writer": "Puneet Krishna",
+        "Year Published": 2018
+    },
+    {
+        "Film": "Dil Juunglee",
+        "Song": "Bandeya",
+        "Singer": "Arijit Singh",
+        "Composer": "Shaarib-Toshi",
+        "Writer": "Dr. Devendra Kafir",
+        "Year Published": 2018
+    },
+    {
+        "Film": "Hichki",
+        "Song": "Khol De Par",
+        "Singer": "Arijit Singh",
+        "Composer": "Jasleen Royal",
+        "Writer": "Raj Shekhar",
+        "Year Published": 2018
+    },
+    {
+        "Film": "102 Not Out",
+        "Song": "Bachche Ki Jaan",
+        "Singer": "Arijit Singh",
+        "Composer": "Salim–Sulaiman",
+        "Writer": "Hiral Brahmbhatt",
+        "Year Published": 2018
+    },
+    {
+        "Film": "Raazi",
+        "Song": "Ae Watan",
+        "Singer": "Arijit Singh",
+        "Composer": "Shankar–Ehsaan–Loy",
+        "Writer": "Gulzar",
+        "Year Published": 2018
+    },
+    {
+        "Film": "Raazi",
+        "Song": "Raazi",
+        "Singer": "Arijit Singh",
+        "Composer": "Shankar–Ehsaan–Loy",
+        "Writer": "Gulzar",
+        "Year Published": 2018
+    },
+    {
+        "Film": "Parmanu",
+        "Song": "Sapna",
+        "Singer": "Arijit Singh",
+        "Composer": "Sachin–Jigar",
+        "Writer": "Sachin Sanghvi",
+        "Year Published": 2018
+    },
+    {
+        "Film": "Veere Di Wedding",
+        "Song": "Aa Jao Na",
+        "Singer": "Arijit Singh, Shashwat Sachdev",
+        "Composer": "Shashwat Sachdev",
+        "Writer": "Raj Shekhar",
+        "Year Published": 2018
+    },
+    {
+        "Film": "When Obama Loved Osama",
+        "Song": "Dil Jugaadu",
+        "Singer": "Arijit Singh, Akanksha Sharma",
+        "Composer": "Kashi-Richard",
+        "Writer": "Shweta Raaj",
+        "Year Published": 2018
+    },
+    {
+        "Film": "Saheb, Biwi Aur Gangster 3",
+        "Song": "Andheron Mein Rishtey",
+        "Singer": "Arijit Singh",
+        "Composer": "Rana Mazumder",
+        "Writer": "Sandeep Nath",
+        "Year Published": 2018
+    },
+    {
+        "Film": "Karwaan",
+        "Song": "Chota Sa Fasana",
+        "Singer": "Arijit Singh",
+        "Composer": "Anurag Saikia",
+        "Writer": "Akash Khurana",
+        "Year Published": 2018
+    },
+    {
+        "Film": "Genius",
+        "Song": "Tera Fitoor",
+        "Singer": "Arijit Singh",
+        "Composer": "Himesh Reshammiya",
+        "Writer": "Kumaar",
+        "Year Published": 2018
+    },
+    {
+        "Film": "Laila Majnu",
+        "Song": "Aahista",
+        "Singer": "Arijit Singh, Jonita Gandhi",
+        "Composer": "Niladri Kumar",
+        "Writer": "Irshad Kamil",
+        "Year Published": 2018
+    },
+    {
+        "Film": "Batti Gul Meter Chalu",
+        "Song": "Har Har Gange",
+        "Singer": "Arijit Singh",
+        "Composer": "Sachet – Parampara",
+        "Writer": "Siddharth – Garima",
+        "Year Published": 2018
+    },
+    {
+        "Film": "Pataakha",
+        "Song": "Naina Banjare",
+        "Singer": "Arijit Singh",
+        "Composer": "Vishal Bhardwaj",
+        "Writer": "Gulzar",
+        "Year Published": 2018
+    },
+    {
+        "Film": "Andhadhun",
+        "Song": "Woh Ladki",
+        "Singer": "Arijit Singh",
+        "Composer": "Amit Trivedi",
+        "Writer": "Jaideep Sahni",
+        "Year Published": 2018
+    },
+    {
+        "Film": "Helicopter Eela",
+        "Song": "Dooba Dooba",
+        "Singer": "Arijit Singh, Sunidhi Chauhan",
+        "Composer": "Amit Trivedi",
+        "Writer": "Swanand Kirkire",
+        "Year Published": 2018
+    },
+    {
+        "Film": "Jalebi",
+        "Song": "Pal",
+        "Singer": "Arijit Singh, Shreya Ghoshal",
+        "Composer": "Javed-Mohsin",
+        "Writer": "Prashant Ingole, Kunaal Vermaa",
+        "Year Published": 2018
+    },
+    {
+        "Film": "Jalebi",
+        "Song": "Mera Pyar Tera Pyar",
+        "Singer": "Arijit Singh",
+        "Composer": "Jeet Gannguli",
+        "Writer": "Rashmi Virag",
+        "Year Published": 2018
+    },
+    {
+        "Film": "Baazaar",
+        "Song": "Chhod Diya",
+        "Singer": "Arijit Singh",
+        "Composer": "Kanika Kapoor",
+        "Writer": "Shabbir Ahmed",
+        "Year Published": 2018
+    },
+    {
+        "Film": "Rajma Chawal",
+        "Song": "Yaariyan",
+        "Singer": "Arijit Singh",
+        "Composer": "Hitesh Sonik",
+        "Writer": "Irshad Kamil",
+        "Year Published": 2018
+    },
+    {
+        "Film": "Kedarnath",
+        "Song": "Qaafirana",
+        "Singer": "Arijit Singh, Nikhita Gandhi",
+        "Composer": "Amit Trivedi",
+        "Writer": "Amitabh Bhattacharya",
+        "Year Published": 2018
+    },
+    {
+        "Film": "Kedarnath",
+        "Song": "Jaan Nisaar",
+        "Singer": "Arijit Singh",
+        "Composer": "Amit Trivedi",
+        "Writer": "Amitabh Bhattacharya",
+        "Year Published": 2018
+    },
+    {
+        "Film": "Simmba",
+        "Song": "Bandeya Rey Bandeya",
+        "Singer": "Arijit Singh, Asees Kaur",
+        "Composer": "Tanishk Bagchi",
+        "Writer": "Rashmi Virag",
+        "Year Published": 2018
+    },
+    {
+        "Film": "Sonchiriya",
+        "Song": "Ruan Ruan",
+        "Singer": "Arijit Singh",
+        "Composer": "Vishal Bhardwaj",
+        "Writer": "Varun Grover",
+        "Year Published": 2019
+    },
+    {
+        "Film": "Mere Pyare Prime Minister",
+        "Song": "Mere Pyare Prime Minister – Title Track",
+        "Singer": "Arijit Singh",
+        "Composer": "Shankar–Ehsaan–Loy",
+        "Writer": "Gulzar",
+        "Year Published": 2019
+    },
+    {
+        "Film": "Kesari",
+        "Song": "Ve Maahi",
+        "Singer": "Arijit Singh, Asees Kaur",
+        "Composer": "Tanishk Bagchi",
+        "Writer": "Tanishk Bagchi",
+        "Year Published": 2019
+    },
+    {
+        "Film": "Kalank",
+        "Song": "First Class",
+        "Singer": "Arijit Singh, Neeti Mohan",
+        "Composer": "Pritam Chakraborty",
+        "Writer": "Amitabh Bhattacharya",
+        "Year Published": 2019
+    },
+    {
+        "Film": "Kalank",
+        "Song": "Kalank – Title Track",
+        "Singer": "Arijit Singh, Shilpa Rao",
+        "Composer": "Pritam Chakraborty",
+        "Writer": "Amitabh Bhattacharya",
+        "Year Published": 2019
+    },
+    {
+        "Film": "Student of the Year 2",
+        "Song": "Main Bhi Nahin Soya",
+        "Singer": "Arijit Singh",
+        "Composer": "Vishal–Shekhar",
+        "Writer": "Anvita Dutt",
+        "Year Published": 2019
+    },
+    {
+        "Film": "De De Pyaar De",
+        "Song": "Tu Mila To Haina",
+        "Singer": "Arijit Singh",
+        "Composer": "Amaal Mallik",
+        "Writer": "Kunaal Vermaa",
+        "Year Published": 2019
+    },
+    {
+        "Film": "De De Pyaar De",
+        "Song": "Dil Royi Jaye",
+        "Singer": "Arijit Singh",
+        "Composer": "Rochak Kohli",
+        "Writer": "Kumaar",
+        "Year Published": 2019
+    },
+    {
+        "Film": "Kabir Singh",
+        "Song": "Bekhayali",
+        "Singer": "Arijit Singh",
+        "Composer": "Sachet–Parampara",
+        "Writer": "Irshad Kamil",
+        "Year Published": 2019
+    },
+    {
+        "Film": "Kabir Singh",
+        "Song": "Tujhe Kitna Chahne Lage",
+        "Singer": "Arijit Singh",
+        "Composer": "Mithoon",
+        "Writer": "Mithoon",
+        "Year Published": 2019
+    },
+    {
+        "Film": "Jabariya Jodi",
+        "Song": "Ki Honda Pyaar",
+        "Singer": "Arijit Singh",
+        "Composer": "Vishal Mishra",
+        "Writer": "Raj Shekhar",
+        "Year Published": 2019
+    },
+    {
+        "Film": "Chhichhore",
+        "Song": "Woh Din",
+        "Singer": "Arijit Singh",
+        "Composer": "Pritam Chakraborty",
+        "Writer": "Amitabh Bhattacharya",
+        "Year Published": 2019
+    },
+    {
+        "Film": "Chhichhore",
+        "Song": "Khairiyat",
+        "Singer": "Arijit Singh",
+        "Composer": "Pritam Chakraborty",
+        "Writer": "Amitabh Bhattacharya",
+        "Year Published": 2019
+    },
+    {
+        "Film": "The Zoya Factor",
+        "Song": "Kaash",
+        "Singer": "Arijit Singh, Alyssa Mendonsa",
+        "Composer": "Shankar–Ehsaan–Loy",
+        "Writer": "Amitabh Bhattacharya",
+        "Year Published": 2019
+    },
+    {
+        "Film": "Pal Pal Dil Ke Paas",
+        "Song": "Pal Pal Dil Ke Paas – Title Track",
+        "Singer": "Arijit Singh, Parampara Thakur",
+        "Composer": "Sachet–Parampara",
+        "Writer": "Siddharth-Garima",
+        "Year Published": 2019
+    },
+    {
+        "Film": "War",
+        "Song": "Ghungroo",
+        "Singer": "Arijit Singh, Shilpa Rao",
+        "Composer": "Vishal–Shekhar",
+        "Writer": "Kumaar",
+        "Year Published": 2019
+    },
+    {
+        "Film": "The Sky Is Pink",
+        "Song": "Dil Hi Toh Hai",
+        "Singer": "Arijit Singh, Antara Mitra",
+        "Composer": "Pritam Chakraborty",
+        "Writer": "Gulzar",
+        "Year Published": 2019
+    },
+    {
+        "Film": "The Sky Is Pink",
+        "Song": "Zindagi",
+        "Singer": "Arijit Singh",
+        "Composer": "Pritam Chakraborty",
+        "Writer": "Gulzar",
+        "Year Published": 2019
+    },
+    {
+        "Film": "Made in China",
+        "Song": "Valam",
+        "Singer": "Arijit Singh, Priya Saraiya, Sachin–Jigar",
+        "Composer": "Sachin–Jigar",
+        "Writer": "Priya Saraiya",
+        "Year Published": 2019
+    },
+    {
+        "Film": "Satellite Shankar",
+        "Song": "Tere Sang",
+        "Singer": "Arijit Singh, Aakanshka Sharma",
+        "Composer": "Mithoon",
+        "Writer": "Mithoon",
+        "Year Published": 2019
+    },
+    {
+        "Film": "Marjaavaan",
+        "Song": "Thodi Jagah",
+        "Singer": "Arijit Singh",
+        "Composer": "Tanishk Bagchi",
+        "Writer": "Rashmi Virag",
+        "Year Published": 2019
+    },
+    {
+        "Film": "Commando 3",
+        "Song": "Akhiyaan Milavanga",
+        "Singer": "Arijit Singh, Sruthy Sasidharan",
+        "Composer": "Mannan Shaah",
+        "Writer": "Sahil Sultanpuri",
+        "Year Published": 2019
+    },
+    {
+        "Film": "Pati, Patni Aur Woh",
+        "Song": "Tu Hi Yaar Mera",
+        "Singer": "Arijit Singh, Neha Kakkar",
+        "Composer": "Rochak Kohli",
+        "Writer": "Kumaar",
+        "Year Published": 2019
+    },
+    {
+        "Film": "The Body",
+        "Song": "Khuda Hafiz",
+        "Singer": "Arijit Singh",
+        "Composer": "Arko",
+        "Writer": "Manoj Muntashir",
+        "Year Published": 2019
+    },
+    {
+        "Film": "Good Newwz",
+        "Song": "Dil Na Jaaneya",
+        "Singer": "Arijit Singh",
+        "Composer": "Rochak Kohli",
+        "Writer": "Gurpreet Saini",
+        "Year Published": 2019
+    },
+    {
+        "Film": "Chhapaak",
+        "Song": "Chhapaak",
+        "Singer": "Arijit Singh",
+        "Composer": "Shankar–Ehsaan–Loy",
+        "Writer": "Gulzar",
+        "Year Published": 2020
+    },
+    {
+        "Film": "Chhapaak",
+        "Song": "Khulne Do",
+        "Singer": "Arijit Singh",
+        "Composer": "Shankar–Ehsaan–Loy",
+        "Writer": "Gulzar",
+        "Year Published": 2020
+    },
+    {
+        "Film": "Chhapaak",
+        "Song": "Sab Jhulas Gaya",
+        "Singer": "Arijit Singh",
+        "Composer": "Shankar–Ehsaan–Loy",
+        "Writer": "Gulzar",
+        "Year Published": 2020
+    },
+    {
+        "Film": "Jai Mummy Di",
+        "Song": "Dariyaganj",
+        "Singer": "Arijit Singh, Dhvani Bhanushali",
+        "Composer": "Amartya Bobo Rahut",
+        "Writer": "Siddharth Kaushal",
+        "Year Published": 2020
+    },
+    {
+        "Film": "Street Dancer 3D",
+        "Song": "Dua Karo",
+        "Singer": "Arijit Singh, Bohemia",
+        "Composer": "Sachin–Jigar",
+        "Writer": "Priya Saraiya",
+        "Year Published": 2020
+    },
+    {
+        "Film": "Happy Hardy and Heer",
+        "Song": "Heeriye",
+        "Singer": "Arijit Singh, Shreya Ghoshal",
+        "Composer": "Himesh Reshammiya",
+        "Writer": "Shabbir Ahmed",
+        "Year Published": 2020
+    },
+    {
+        "Film": "Malang",
+        "Song": "Chal Ghar Chalen",
+        "Singer": "Arijit Singh",
+        "Composer": "Mithoon",
+        "Writer": "Sayeed Quadri",
+        "Year Published": 2020
+    },
+    {
+        "Film": "Love Aaj Kal",
+        "Song": "Shayad",
+        "Singer": "Arijit Singh",
+        "Composer": "Pritam Chakraborty",
+        "Writer": "Irshad Kamil",
+        "Year Published": 2020
+    },
+    {
+        "Film": "Love Aaj Kal",
+        "Song": "Haan Main Galat",
+        "Singer": "Arijit Singh, Shashwat Singh",
+        "Composer": "Pritam Chakraborty",
+        "Writer": "Irshad Kamil",
+        "Year Published": 2020
+    },
+    {
+        "Film": "Love Aaj Kal",
+        "Song": "Rahogi Meri",
+        "Singer": "Arijit Singh",
+        "Composer": "Pritam Chakraborty",
+        "Writer": "Irshad Kamil",
+        "Year Published": 2020
+    },
+    {
+        "Film": "Love Aaj Kal",
+        "Song": "Haan Tum Ho",
+        "Singer": "Arijit Singh, Shilpa Rao",
+        "Composer": "Pritam Chakraborty",
+        "Writer": "Irshad Kamil",
+        "Year Published": 2020
+    },
+    {
+        "Film": "Scotland",
+        "Song": "Mere Parwardigaar",
+        "Singer": "Arijit Singh",
+        "Composer": "Harpreet Singh",
+        "Writer": "Rajiv Rana",
+        "Year Published": 2020
+    },
+    {
+        "Film": "Shubh Mangal Zyada Saavdhan",
+        "Song": "Raakh",
+        "Singer": "Arijit Singh",
+        "Composer": "Tanishk-Vayu",
+        "Writer": "Vayu",
+        "Year Published": 2020
+    },
+    {
+        "Film": "Babloo Bachelor",
+        "Song": "Kasam",
+        "Singer": "Arijit Singh",
+        "Composer": "Jeet Gannguli",
+        "Writer": "Rashmi Virag",
+        "Year Published": 2020
+    },
+    {
+        "Film": "Babloo Bachelor",
+        "Song": "Tum Ho",
+        "Singer": "Arijit Singh",
+        "Composer": "Indraadip Dasgupta",
+        "Writer": "Ashish Pandit",
+        "Year Published": 2020
+    },
+    {
+        "Film": "Dil Bechara",
+        "Song": "Khulke Jeene Ka",
+        "Singer": "Arijit Singh, Shashaa Tirupati",
+        "Composer": "A. R. Rahman",
+        "Writer": "Amitabh Bhattacharya",
+        "Year Published": 2020
+    },
+    {
+        "Film": "Gunjan Saxena",
+        "Song": "Bharat Ki Beti",
+        "Singer": "Arijit Singh",
+        "Composer": "Amit Trivedi",
+        "Writer": "Kausar Munir",
+        "Year Published": 2020
+    },
+    {
+        "Film": "Sadak 2",
+        "Song": "Shukriya",
+        "Singer": "Arijit Singh, KK, Jubin Nautiyal",
+        "Composer": "Jeet Gannguli",
+        "Writer": "Rashmi Virag",
+        "Year Published": 2020
+    },
+    {
+        "Film": "Ludo",
+        "Song": "Aabaad Barbaad",
+        "Singer": "Arijit Singh",
+        "Composer": "Pritam",
+        "Writer": "Sandeep Shrivastva",
+        "Year Published": 2020
+    },
+    {
+        "Film": "Ludo",
+        "Song": "Hardum Humdum",
+        "Singer": "Arijit Singh",
+        "Composer": "Pritam",
+        "Writer": "Sayeed Quadri",
+        "Year Published": 2020
+    },
+    {
+        "Film": "Darbaan",
+        "Song": "Khushmizaaj",
+        "Singer": "Arijit Singh, Amartya Bobo Rahut",
+        "Composer": "Amartya Bobo Rahut",
+        "Writer": "Manoj Yadav",
+        "Year Published": 2020
+    },
+    {
+        "Film": "Sayonee",
+        "Song": "Sayonee",
+        "Singer": "Arijit Singh, Jyoti Nooran",
+        "Composer": "Junoon",
+        "Writer": "Junoon",
+        "Year Published": 2020
+    },
+    {
+        "Film": "The Power",
+        "Song": "Oh Saaiyaan",
+        "Singer": "Arijit Singh, Raj Pandit",
+        "Composer": "Salim–Sulaiman",
+        "Writer": "Kumaar",
+        "Year Published": 2021
+    },
+    {
+        "Film": "Pagglait",
+        "Song": "Phire Faqeera",
+        "Singer": "Arijit Singh, Raja Kumari, Amrita Singh",
+        "Composer": "Arijit Singh",
+        "Writer": "Neelesh Misra",
+        "Year Published": 2021
+    },
+    {
+        "Film": "Pagglait",
+        "Song": "Pagglait",
+        "Singer": "Arijit Singh, Raftaar, Amrita Singh",
+        "Composer": "Arijit Singh",
+        "Writer": "Raftaar",
+        "Year Published": 2021
+    },
+    {
+        "Film": "Pagglait",
+        "Song": "Dil Udd Ja Re",
+        "Singer": "Arijit Singh, Meghna Mishra",
+        "Composer": "Arijit Singh",
+        "Writer": "Neelesh Misra",
+        "Year Published": 2021
+    },
+    {
+        "Film": "Pagglait",
+        "Song": "Thode Kam Ajnabi",
+        "Singer": "Arijit Singh, Himani Kapoor",
+        "Composer": "Arijit Singh",
+        "Writer": "Neelesh Misra",
+        "Year Published": 2021
+    },
+    {
+        "Film": "Pagglait",
+        "Song": "Lamha",
+        "Singer": "Arijit Singh, Antara Mitra",
+        "Composer": "Arijit Singh",
+        "Writer": "Neelesh Misra",
+        "Year Published": 2021
+    },
+    {
+        "Film": "99 Songs",
+        "Song": "Jwalamukhi",
+        "Singer": "Arijit Singh",
+        "Composer": "A. R. Rahman",
+        "Writer": "Navneet Virk",
+        "Year Published": 2021
+    },
+    {
+        "Film": "Toofaan",
+        "Song": "Jo Tum Aa Gaye Ho",
+        "Singer": "Arijit Singh",
+        "Composer": "Samuel-Akanksha",
+        "Writer": "Javed Akhtar, Manoj Kumar Nath",
+        "Year Published": 2021
+    },
+    {
+        "Film": "Toofaan",
+        "Song": "Ananya",
+        "Singer": "Arijit Singh",
+        "Composer": "Shankar–Ehsaan–Loy",
+        "Writer": "Javed Akhtar",
+        "Year Published": 2021
+    },
+    {
+        "Film": "Bhuj: The Pride of India",
+        "Song": "Desh Mere",
+        "Singer": "Arijit Singh",
+        "Composer": "Arko Pravo Mukherjee",
+        "Writer": "Manoj Muntashir",
+        "Year Published": 2021
+    },
+    {
+        "Film": "Sooryavanshi",
+        "Song": "Mere Yaaraa",
+        "Singer": "Arijit Singh, Neeti Mohan",
+        "Composer": "JAM8",
+        "Writer": "Rashmi Virag",
+        "Year Published": 2021
+    },
+    {
+        "Film": "Bunty Aur Babli 2",
+        "Song": "Luv Ju",
+        "Singer": "Arijit Singh",
+        "Composer": "Shankar–Ehsaan–Loy",
+        "Writer": "Amitabh Bhattacharya",
+        "Year Published": 2021
+    },
+    {
+        "Film": "Cash",
+        "Song": "Tera Hua",
+        "Singer": "Arijit Singh",
+        "Composer": "Akull",
+        "Writer": "Kunaal Vermaa",
+        "Year Published": 2021
+    },
+    {
+        "Film": "Tadap",
+        "Song": "Tumse Bhi Zyada",
+        "Singer": "Arijit Singh",
+        "Composer": "Pritam",
+        "Writer": "Irshad Kamil",
+        "Year Published": 2021
+    },
+    {
+        "Film": "Atrangi Re",
+        "Song": "Rait Zara Si",
+        "Singer": "Arijit Singh, Shashaa Tirupati",
+        "Composer": "A. R. Rahman",
+        "Writer": "Irshad Kamil",
+        "Year Published": 2021
+    },
+    {
+        "Film": "Atrangi Re",
+        "Song": "Tumhein Mohabbat",
+        "Singer": "Arijit Singh",
+        "Composer": "A. R. Rahman",
+        "Writer": "Irshad Kamil",
+        "Year Published": 2021
+    },
+    {
+        "Film": 83,
+        "Song": "Lehra Do",
+        "Singer": "Arijit Singh",
+        "Composer": "Pritam",
+        "Writer": "Kausar Munir",
+        "Year Published": 2021
+    },
+    {
+        "Film": 83,
+        "Song": "Jeetega Jeetega",
+        "Singer": "Arijit Singh",
+        "Composer": "Pritam",
+        "Writer": "Kausar Munir",
+        "Year Published": 2021
+    },
+    {
+        "Film": "Badhaai Do",
+        "Song": "Atak Gaya",
+        "Singer": "Arijit Singh, Rupali Moghe",
+        "Composer": "Amit Trivedi",
+        "Writer": "Varun Grover",
+        "Year Published": 2022
+    },
+    {
+        "Film": "Gangubai Kathiawadi",
+        "Song": "Muskurahat",
+        "Singer": "Arijit Singh",
+        "Composer": "Sanjay Leela Bhansali",
+        "Writer": "A. M. Turaz",
+        "Year Published": 2022
+    },
+    {
+        "Film": "Radhe Shyam",
+        "Song": "Aashiqui Aa Gayi",
+        "Singer": "Arijit Singh",
+        "Composer": "Mithoon",
+        "Writer": "Mithoon",
+        "Year Published": 2022
+    },
+    {
+        "Film": "Radhe Shyam",
+        "Song": "Soch Liya",
+        "Singer": "Arijit Singh",
+        "Composer": "Mithoon",
+        "Writer": "Manoj Muntashir",
+        "Year Published": 2022
+    },
+    {
+        "Film": "Bachchan Pandey",
+        "Song": "Heer Ranjhana",
+        "Singer": "Arijit Singh, Shreya Ghoshal",
+        "Composer": "Amaal Malik",
+        "Writer": "Kumaar",
+        "Year Published": 2022
+    },
+    {
+        "Film": "Runway 34",
+        "Song": "Mitra Re",
+        "Singer": "Arijit Singh, Jasleen Royal",
+        "Composer": "Jasleen Royal",
+        "Writer": "Aditya Sharma",
+        "Year Published": 2022
+    },
+    {
+        "Film": "Chitrakut",
+        "Song": "Maan Le",
+        "Singer": "Arijit Singh",
+        "Composer": "Somesh Saha",
+        "Writer": "Somesh Saha, Divya Unny",
+        "Year Published": 2022
+    },
+    {
+        "Film": "Bhool Bhulaiyaa 2",
+        "Song": "Hum Nashe Mein Toh Nahin",
+        "Singer": "Arijit Singh, Tulsi Kumar",
+        "Composer": "Pritam",
+        "Writer": "Amitabh Bhattacharya",
+        "Year Published": 2022
+    },
+    {
+        "Film": "Bhool Bhulaiyaa 2",
+        "Song": "Mere Dholna",
+        "Singer": "Arijit Singh",
+        "Composer": "Pritam",
+        "Writer": "Sameer",
+        "Year Published": 2022
+    },
+    {
+        "Film": "Bhool Bhulaiyaa 2",
+        "Song": "Ami Je Tomar",
+        "Singer": "Arijit Singh",
+        "Composer": "Pritam",
+        "Writer": "Sameer",
+        "Year Published": 2022
+    },
+    {
+        "Film": "Samrat Prithviraj",
+        "Song": "Makhmali",
+        "Singer": "Arijit Singh, Shreya Ghoshal, Keerthi Sagathia",
+        "Composer": "Shankar Ehsaan Loy",
+        "Writer": "Varun Grover",
+        "Year Published": 2022
+    },
+    {
+        "Film": "Ittu Si Baat",
+        "Song": "Sun Bhi Le",
+        "Singer": "Arijit Singh, Vishal Mishra",
+        "Composer": "Vishal Mishra",
+        "Writer": "Raj Shekhar",
+        "Year Published": 2022
+    },
+    {
+        "Film": "Rashtra Kavach Om",
+        "Song": "Seher",
+        "Singer": "Arijit Singh",
+        "Composer": "Arko Pravo Mukherjee",
+        "Writer": "A. M. Turaz",
+        "Year Published": 2022
+    },
+    {
+        "Film": "HIT: The First Case",
+        "Song": "Kitni Haseen Hogi",
+        "Singer": "Arijit Singh",
+        "Composer": "Mithoon",
+        "Writer": "Sayeed Quadri",
+        "Year Published": 2022
+    },
+    {
+        "Film": "Shamshera",
+        "Song": "Fitoor",
+        "Singer": "Arijit Singh, Neeti Mohan",
+        "Composer": "Mithoon",
+        "Writer": "Karan Malhotra",
+        "Year Published": 2022
+    },
+    {
+        "Film": "Darlings",
+        "Song": "La Ilaaj",
+        "Singer": "Arijit Singh",
+        "Composer": "Vishal Bhardwaj",
+        "Writer": "Gulzar",
+        "Year Published": 2022
+    },
+    {
+        "Film": "Raksha Bandhan",
+        "Song": "Dhaagon Se Baandhaa",
+        "Singer": "Arijit Singh, Shreya Ghoshal",
+        "Composer": "Himesh Reshammiya",
+        "Writer": "Irshad Kamil",
+        "Year Published": 2022
+    },
+    {
+        "Film": "Laal Singh Chaddha",
+        "Song": "Phir Na Aisi Raat Aayegi",
+        "Singer": "Arijit Singh",
+        "Composer": "Pritam",
+        "Writer": "Amitabh Bhattacharya",
+        "Year Published": 2022
+    },
+    {
+        "Film": "Laal Singh Chaddha",
+        "Song": "Tur Kalleyan",
+        "Singer": "Arijit Singh, Shadab Faridi, Altamash Faridi",
+        "Composer": "Pritam",
+        "Writer": "Amitabh Bhattacharya",
+        "Year Published": 2022
+    },
+    {
+        "Film": "Laal Singh Chaddha",
+        "Song": "Tere Hawaale",
+        "Singer": "Arijit Singh, Shilpa Rao",
+        "Composer": "Pritam",
+        "Writer": "Amitabh Bhattacharya",
+        "Year Published": 2022
+    },
+    {
+        "Film": "Brahmāstra Part One: Shiva",
+        "Song": "Kesariya",
+        "Singer": "Arijit Singh",
+        "Composer": "Pritam",
+        "Writer": "Amitabh Bhattacharya",
+        "Year Published": 2022
+    },
+    {
+        "Film": "Brahmāstra Part One: Shiva",
+        "Song": "Deva Deva",
+        "Singer": "Arijit Singh, Jonita Gandhi",
+        "Composer": "Pritam",
+        "Writer": "Amitabh Bhattacharya",
+        "Year Published": 2022
+    },
+    {
+        "Film": "Brahmāstra Part One: Shiva",
+        "Song": "Dance Ka Bhoot",
+        "Singer": "Arijit Singh",
+        "Composer": "Pritam",
+        "Writer": "Amitabh Bhattacharya",
+        "Year Published": 2022
+    },
+    {
+        "Film": "Brahmāstra Part One: Shiva",
+        "Song": "Rasiya Reprise",
+        "Singer": "Arijit Singh",
+        "Composer": "Pritam",
+        "Writer": "Amitabh Bhattacharya",
+        "Year Published": 2022
+    },
+    {
+        "Film": "Atithi Bhooto Bhava",
+        "Song": "Paakhi Hua Re",
+        "Singer": "Arijit Singh",
+        "Composer": "Prasad S",
+        "Writer": "Priyanka R Bala",
+        "Year Published": 2022
+    },
+    {
+        "Film": "Dhokha: Round D Corner",
+        "Song": "Mahi Mera Dil",
+        "Singer": "Arijit Singh, Tulsi Kumar",
+        "Composer": "Tanishk Bagchi",
+        "Writer": "Kumaar",
+        "Year Published": 2022
+    },
+    {
+        "Film": "Maja Ma",
+        "Song": "Kacchi Doriyaan",
+        "Singer": "Arijit Singh, Asees Kaur",
+        "Composer": "Anurag Sharma",
+        "Writer": "Anurag Sharma",
+        "Year Published": 2022
+    },
+    {
+        "Film": "Code Name: Tiranga",
+        "Song": "Yaar Ve",
+        "Singer": "Arijit Singh",
+        "Composer": "Vipin Patwa",
+        "Writer": "Kumaar",
+        "Year Published": 2022
+    },
+    {
+        "Film": "Thank God",
+        "Song": "Thank God - Title Track",
+        "Singer": "Arijit Singh, Eklavya",
+        "Composer": "Rochak Kohli",
+        "Writer": "Manoj Muntashir",
+        "Year Published": 2022
+    },
+    {
+        "Film": "Bhediya",
+        "Song": "Apna Bana Le",
+        "Singer": "Arijit Singh, Sachin-Jigar",
+        "Composer": "Sachin–Jigar",
+        "Writer": "Amitabh Bhattacharya",
+        "Year Published": 2022
+    },
+    {
+        "Film": "Freddy",
+        "Song": "Kaala Jaadu",
+        "Singer": "Arijit Singh, Nikhita Gandhi",
+        "Composer": "Pritam",
+        "Writer": "Irshad Kamil",
+        "Year Published": 2022
+    },
+    {
+        "Film": "Salaam Venky",
+        "Song": "Jo Tum Saath Ho",
+        "Singer": "Arijit Singh",
+        "Composer": "Mithoon",
+        "Writer": "Mithoon",
+        "Year Published": 2022
+    },
+    {
+        "Film": "Pathaan",
+        "Song": "Jhoome Jo Pathaan",
+        "Singer": "Arijit Singh, Sukriti Kakar, Vishal–Shekhar",
+        "Composer": "Vishal–Shekhar",
+        "Writer": "Kumaar",
+        "Year Published": 2023
+    },
+    {
+        "Film": "Shehzada",
+        "Song": "Chedkhaniyan",
+        "Singer": "Arijit Singh, Nikhita Gandhi",
+        "Composer": "Pritam",
+        "Writer": "Shloke Lal, IP Singh",
+        "Year Published": 2023
+    },
+    {
+        "Film": "Tu Jhoothi Main Makkaar",
+        "Song": "Tere Pyaar Mein",
+        "Singer": "Arijit Singh",
+        "Composer": "Pritam",
+        "Writer": "Amitabh Bhattacharya",
+        "Year Published": 2023
+    },
+    {
+        "Film": "Tu Jhoothi Main Makkaar",
+        "Song": "Pyaar Hota Kayi Baar Hain",
+        "Singer": "Arijit Singh, Charan",
+        "Composer": "Pritam",
+        "Writer": "Amitabh Bhattacharya",
+        "Year Published": 2023
+    },
+    {
+        "Film": "Tu Jhoothi Main Makkaar",
+        "Song": "O Bedardeya",
+        "Singer": "Arijit Singh",
+        "Composer": "Pritam",
+        "Writer": "Amitabh Bhattacharya",
+        "Year Published": 2023
+    }
+]
